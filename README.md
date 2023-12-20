@@ -60,7 +60,7 @@ bash install_games.sh
 ```
 All games are successfully installed now it's time to play.
 ### One-line Command
-visit: www.termuxcommands.com/termux-games/
+visit: <a href="www.termuxcommands.com/termux-games/">www.termuxcommands.com/termux-games/</a>
 ## Play Games
 Run the following commands to open the available games menu:
 ```
