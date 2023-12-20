@@ -76,5 +76,5 @@ If you are facing any problems or issues, then you can contact us by just enteri
 ```
 bash get_help.sh
 ```
-you can also visit our website for more: www.termuxcommands.com <br>
+you can also visit our website for more: <a href="https://www.termuxcommands.com">www.termuxcommands.com</a>
 ### Thank you for Using This Tool.
